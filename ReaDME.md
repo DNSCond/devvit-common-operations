@@ -4,6 +4,19 @@ some opertations i thought many people need.
 
 note: this is unofficial;
 
+## collaborating, howto?
+
+i dont know either, but i feel like making a pull request is the best way.
+
+[if you know how to manage this or have hints or questions please feel free to message this person](https://www.reddit.com/message/compose/?to=antboiy&subject=https%3A%2F%2Fgithub.com%2FDNSCond%2Fdevvit-common-operations&message=please%20be%20detailed%20as%20possible%2C%20i%20will%20most%20likely%20not%20respond%20to%20messages%20without%20context%2C%20the%20url%20is%20context%20enough%2C%20also%20please%20do%20not%20send%20this%20prefilled%20message%20without%20editing)
+
+please be detailed as possible, i will most likely not respond to messages without context, the url is context enough,
+also please do not send this prefilled message without editing.
+
+https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
+
+also i dont know how to make the licensing work
+
 ## repository folder structure
 
 ```
