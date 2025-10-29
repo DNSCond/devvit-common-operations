@@ -2,6 +2,8 @@
 
 some opertations i thought many people need.
 
+note: this is unofficial;
+
 ```
 src / (the root of all code)
 | - devvit / (everything devvit. aka all of it)
