@@ -6,9 +6,13 @@
   "type": "module",
   "dependencies": {
     "@devvit/public-api": "0.12.1",
-    "@devvit/web": "0.12.1"
+    "@devvit/web": "0.12.1",
+    "express": "5.1.0",
+    "semver": "^7.7.1"
   },
   "devDependencies": {
+    "@types/express": "5.0.1",
+    "@types/semver": "^7.7.1",
     "typescript": "5.8.3"
   }
 }

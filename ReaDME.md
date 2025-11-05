@@ -30,7 +30,7 @@ src / (the root of all code)
 
 plewase name your files as the function they contain. and put your name and reddit url with it.
 
-`u/antboiy <https://reddit.com/u/antboiy/>`
+`u/antboiy <https://reddit.com/u/antboiy/>`.
 
 ## how to use
 
@@ -42,3 +42,17 @@ plewase name your files as the function they contain. and put your name and redd
 6. `npm install`.
 7. [`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) it in your project.
 8. now you can use a single function or multiple!
+
+## how to nme things. (and code style)
+
+to have this work, we (or just me) need a usage style, while i wont make a fuss about arrow function
+(n => n) or keyword functions (function (n) {return n;}) some might. but thats just an example.
+
+- when naming settings, prefix them with the filename, for example `upgradeNotifcation`'s
+  settings will be prefixed with "upgradeNotifcation-". this prevents 2 files sharing the same setting name.
+- when possible make it easy to follow, and if not, please do weirdness that is standardized.
+- add types as much as possible, even if its unessary. this only applies to functionallity a user of your file will use, internal things can go untyped.
+
+## github URL
+
+https://github.com/DNSCond/devvit-common-operations
