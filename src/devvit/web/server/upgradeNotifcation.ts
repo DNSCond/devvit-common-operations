@@ -30,7 +30,7 @@ as this repo wants to keep things standalone. you will need to add these setting
         "type": "string",
         "label": "latests version in semver",
       }
-    }
+    },
     "subreddit": {
       "upgradeNotifcation-sendUpgradeNotif": {
         "type": "boolean",
