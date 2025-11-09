@@ -26,9 +26,9 @@ as this repo wants to keep things standalone. you will need to add these setting
 {
   "settings": {
     "global": {
-      "devvit settings": {
+      "upgradeNotifcation-semver-latest": {
         "type": "string",
-        "label": "latests version in semver",
+        "label": "latests version in semi semver",
       }
     },
     "subreddit": {
